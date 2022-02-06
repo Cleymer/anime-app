@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Desplegado en NetliFy : (https://anime-app-cleymer.netlify.app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
