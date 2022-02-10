@@ -19,7 +19,10 @@ export const LoginScreen = () => {
     };
 
     dispatch(action);
-    navigate('/shounen', {
+    
+     const lastPath = localStorage.getItem('lastPath') || '/';
+    
+    navigate(lastPath, {
       replace: true
     });
   }
